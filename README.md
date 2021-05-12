@@ -1,6 +1,6 @@
 # React Todo App
 
-This is a sample react todo app done step-by-step. This sample app was a part of react workshop.
+This is a sample react todo app done step-by-step. 
 
 ## Instructions
 
@@ -18,3 +18,8 @@ Run it
 ```bash
 $ npm start # or yarn start
 ```
+## Whats Completed ?
+
+- Ability to create, delete, update the to-do list
+- Default have set the sample to-do day today tasks
+- Upon create / update / delete, the values are captured in the local storage
