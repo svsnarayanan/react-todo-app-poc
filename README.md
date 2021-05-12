@@ -26,8 +26,9 @@ $ npm start # or yarn start
 
 ## Pending-List
 
-- Add the ability to set the due-date
+- Add an ability to set the due-date upon task creation
 - Set reminder based on threshold limit
+- Sort the task lists based on nearing due-dates
 - Extend the saving solutions (currently on local storage) integrate with a micro-services API
 - Check if the browser doesnt support local storage, then fall back to cookies
 - Add JEST / Karma coverage to perform unit test coverage on UI components
